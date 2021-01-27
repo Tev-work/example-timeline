@@ -59,7 +59,7 @@ export default {
     font-weight: 600;
   }
   .date {
-    color: darkcyan;
+    color: #0b5184;
   }
   .about, .name, .tags {
     font-size: 12px;
