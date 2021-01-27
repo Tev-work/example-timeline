@@ -1,5 +1,12 @@
 # example-timeline
 
+Example component, written in Vue.js. Project was initialized using vue-cli.
+
+**Original task description:**
+
+- Write component that visualizes given data into a timeline (based on a date)
+- Styling is secondary
+
 ## Project setup
 ```
 npm install
