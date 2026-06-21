@@ -8,6 +8,8 @@ Example component, written in Vue.js. Project was initialized using vue-cli.
 - Styling is secondary
 
 ## Project setup
+
+Runs fine on Node 16.20.2, crashes on Node 18.20.4
 ```
 npm install
 ```
